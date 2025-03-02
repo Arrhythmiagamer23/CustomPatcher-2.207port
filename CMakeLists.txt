@@ -8,6 +8,7 @@ project(CustomPatcher2207port VERSION 1.0.0)
 
 add_library(${PROJECT_NAME} SHARED
     src/main.cpp
+    src/_a_local_config.cpp
     # Add any extra C++ source files here
 )
 
