@@ -1,10 +1,10 @@
 {
-	"geode": "4.0.1",
+	"geode": "4.2.0",
 	"gd": {
 		"win": "2.2074"
 	},
 	"version": "v1.0.0",
-	"id": "user95401androadhogstudios.custom_patcher",
+	"id": "roadhogstudios.custom_patcher2207",
 	"name": "Custom Patcher 2.207",
 	"developers": [ "zGuschin", "user95401, RoadHogStudios" ],
 	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.207",
