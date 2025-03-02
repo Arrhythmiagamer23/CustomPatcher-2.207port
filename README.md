@@ -21,8 +21,7 @@ Allow you change the:
 - unlock check function to unlock new icons
 - unlock check function to unlock all icons
 
-FEEL FUCKING FREE DO CREATE ISSUES ON REPO pls
-who talks about it in the fucking nowhere is a nit, really hate them
+FEEL FREE DO CREATE ISSUES ON REPO
 
 ## [BIG ISSUES LINK FOR YOU HERE](https://github.com/user95401/CustomPatcher/issues)
 
