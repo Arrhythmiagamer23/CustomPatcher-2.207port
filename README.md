@@ -23,7 +23,7 @@ Allow you change the:
 
 FEEL FREE DO CREATE ISSUES ON REPO
 
-## [BIG ISSUES LINK FOR YOU HERE](https://github.com/user95401/CustomPatcher/issues)
+## [BIG ISSUES LINK FOR YOU HERE]([https://github.com/user95401/CustomPatcher/issues](https://github.com/Arrhythmiagamer23/CustomPatcher-2.207port/issues))
 
 ### [BIG RESOURCEPACK EXAMPLE LINK)](https://github.com/user95401/CustomPatcher/raw/main/TestPack\(uhd\).zip)
 
