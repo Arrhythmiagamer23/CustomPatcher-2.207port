@@ -1,15 +1,15 @@
 {
-	"geode": "3.4.0",
+	"geode": "4.0.1",
 	"gd": {
-		"win": "2.206"
+		"win": "2.207"
 	},
-	"version": "v0.0.0-beta.3",
-	"id": "user95401.custom_patcher",
-	"name": "Custom Patcher",
-	"developers": [ "zGuschin", "user95401" ],
-	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.206",
+	"version": "v1.0.0",
+	"id": "user95401androadhogstudios.custom_patcher",
+	"name": "Custom Patcher 2.207",
+	"developers": [ "zGuschin", "user95401, RoadHogStudios" ],
+	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.207",
 	"early-load": true,
-	"repository": "https://github.com/user95401/CustomPatcher",
+	"repository": "https://github.com/Arrhythmiagamer23/CustomPatcher-2.207port",
 	"settings": {
 		"Fonts": {
 			"name": "                  Fonts",
@@ -56,7 +56,7 @@
 			"description": "max count of",
 			"type": "int",
 			"max": 900,
-			"default": 484,
+			"default": 485,
 			"control": { "slider": false }
 		},
 		"Ships": {
@@ -120,7 +120,7 @@
 			"description": "max count of",
 			"type": "int",
 			"max": 900,
-			"default": 5,
+			"default": 8,
 			"control": { "slider": false }
 		},
 		"DeathEffects": {
