@@ -21,7 +21,7 @@ Allow you change the:
 - unlock check function to unlock new icons
 - unlock check function to unlock all icons
 
-FEEL FREE DO CREATE ISSUES ON REPO
+feel free to create issues on repo
 
 ## [BIG ISSUES LINK FOR YOU HERE]([https://github.com/user95401/CustomPatcher/issues](https://github.com/Arrhythmiagamer23/CustomPatcher-2.207port/issues))
 
