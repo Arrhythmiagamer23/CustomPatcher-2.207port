@@ -1,4 +1,4 @@
-# Custom Patcher
+# Custom Patcher 2.207 Port
 Allow you change the:
 - count of fonts
 - count of backgrounds
@@ -21,8 +21,7 @@ Allow you change the:
 - unlock check function to unlock new icons
 - unlock check function to unlock all icons
 
-FEEL FUCKING FREE DO CREATE ISSUES ON REPO pls
-who talks about it in the fucking nowhere is a nit, really hate them
+This Mod has been ported because I want to get advice to User95401.
 
 ## [BIG ISSUES LINK FOR YOU HERE](https://github.com/user95401/CustomPatcher/issues)
 
