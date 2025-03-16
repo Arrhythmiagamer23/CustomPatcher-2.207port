@@ -5,7 +5,7 @@
 	},
 	"version": "v1.0.0",
 	"id": "roadhogstudios.custom_patcher2207",
-	"name": "Custom Patcher 2.207",
+	"name": "Custom Patcher 2.207 Port",
 	"developers": [ "zGuschin", "user95401, RoadHogStudios" ],
 	"description": "Change count of Fonts, Grounds, BGs, Icons, in Geometry Dash 2.207",
 	"early-load": true,
