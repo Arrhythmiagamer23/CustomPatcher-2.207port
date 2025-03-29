@@ -22,6 +22,7 @@ Allow you change the:
 - unlock check function to unlock all icons
 
 This Mod has been ported because I want to get advice to User95401.
+This is gonna be a part of a big mod called "Geometry Dash: Spiced Up!".
 
 ## [BIG ISSUES LINK FOR YOU HERE](https://github.com/user95401/CustomPatcher/issues)
 
